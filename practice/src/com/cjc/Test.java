@@ -6,5 +6,6 @@ public class Test
 	 {
 	    Demo demo = new Demo();
 	         demo.show(); // compile error
+	    System.out.println("Hello CJC Welcome to Git");
 	 }
  }
